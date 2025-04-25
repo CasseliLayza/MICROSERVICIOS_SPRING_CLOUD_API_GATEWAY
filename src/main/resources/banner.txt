@@ -1,0 +1,16 @@
+       _      ________  ____         ____                         ____              ___                           ____                                                   ____   ___                         ___
+      dM.     `MMMMMMMb.`MM'        6MMMMb/                       `Mb(      db      )d'                          6MMMMb\                 68b                            6MMMMb/ `MM                         `MM
+     ,MMb      MM    `Mb MM        8P    YM           /            YM.     ,PM.     ,P                          6M'    `                 Y89                           8P    YM  MM                          MM
+     d'YM.     MM     MM MM       6M      Y    ___   /M      ____  `Mb     d'Mb     d'   ___  ____    ___       MM      __ ____  ___  __ ___ ___  __     __           6M      Y  MM   _____  ___   ___   ____MM
+    ,P `Mb     MM     MM MM       MM         6MMMMb /MMMMM  6MMMMb  YM.   ,P YM.   ,P  6MMMMb `MM(    )M'       YM.     `M6MMMMb `MM 6MM `MM `MM 6MMb   6MMbMMM       MM         MM  6MMMMMb `MM    MM  6MMMMMM
+    d'  YM.    MM    .M9 MM       MM        8M'  `Mb MM    6M'  `Mb `Mb   d' `Mb   d' 8M'  `Mb `Mb    d'         YMMMMb  MM'  `Mb MM69 "  MM  MMM9 `Mb 6M'`Mb         MM         MM 6M'   `Mb MM    MM 6M'  `MM
+   ,P   `Mb    MMMMMMM9' MM       MM     ___    ,oMM MM    MM    MM  YM. ,P   YM. ,P      ,oMM  YM.  ,P              `Mb MM    MM MM'     MM  MM'   MM MM  MM         MM         MM MM     MM MM    MM MM    MM
+   d'    YM.   MM        MM       MM     `M',6MM9'MM MM    MMMMMMMM  `Mb d'   `Mb d'  ,6MM9'MM   MM  M                MM MM    MM MM      MM  MM    MM YM.,M9         MM         MM MM     MM MM    MM MM    MM
+  ,MMMMMMMMb   MM        MM       YM      M MM'   MM MM    MM         YM,P     YM,P   MM'   MM   `Mbd'                MM MM    MM MM      MM  MM    MM  YMM9          YM      6  MM MM     MM MM    MM MM    MM
+  d'      YM.  MM        MM        8b    d9 MM.  ,MM YM.  ,YM    d9   `MM'     `MM'   MM.  ,MM    YMP           L    ,M9 MM.  ,M9 MM      MM  MM    MM (M              8b    d9  MM YM.   ,M9 YM.   MM YM.  ,MM
+_dM_     _dMM__MM_      _MM_        YMMMM9  `YMMM9'Yb.YMMM9 YMMMM9     YP       YP    `YMMM9'Yb.   M            MYMMMM9  MMYMMM9 _MM_    _MM__MM_  _MM_ YMMMMb.         YMMMM9  _MM_ YMMMMM9   YMMM9MM_ YMMMMMM_
+                                                                                                  d'                     MM                            6M    Yb
+                                                                                              (8),P                      MM                            YM.   d9
+                                                                                               YMM                      _MM_                            YMMMM9
+${application.title} ${application.version}
+Powered by Spring Boot ${spring-boot.version}
